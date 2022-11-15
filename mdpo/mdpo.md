@@ -2,7 +2,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /mdpo/
 ---
 
 Translator from Somewhere
