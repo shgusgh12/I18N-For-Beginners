@@ -1,6 +1,11 @@
 
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-mdpo testing
+Translator from Somewhere
 
 ### More Information
 
